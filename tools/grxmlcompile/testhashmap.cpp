@@ -19,6 +19,7 @@
 
 
 
+#include <cstdio>
 #include <string>
 #include <fstream>
 #include <iostream>
