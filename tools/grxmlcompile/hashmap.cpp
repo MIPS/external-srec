@@ -25,6 +25,7 @@
  *                                                                           *
  *---------------------------------------------------------------------------*/
 
+#include <cstdio>
 #include <map>
 #include <string>
 #include <iostream>
