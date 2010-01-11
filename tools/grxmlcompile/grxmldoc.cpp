@@ -17,6 +17,7 @@
  *                                                                           *
  *---------------------------------------------------------------------------*/
 
+#include <cstdio>
 #include <assert.h>
 #include <stdlib.h>
 #include <fstream>
